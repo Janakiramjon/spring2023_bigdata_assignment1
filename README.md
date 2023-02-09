@@ -1,6 +1,8 @@
 # spring2023_bigdata_assignment1
 Team BG 3
+
 Person 1: Janakiram Jonnalagadda
+
 Person 2: Nicholas Giordano
 
 	Changes Made to 01.sql
