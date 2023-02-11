@@ -18,8 +18,8 @@ Person 2: Nicholas Giordano
 
 3. Person 3: Bharath Yadlapalli
 
-1. I forked the repository, cloned it, and added a column.
-2. revised the readme document and combined the branch with the main.
-3. Next, the local repository was pushed to the git hub.
+	1. I forked the repository, cloned it, and added a column.
+	2. revised the readme document and combined the branch with the main.
+	3. Next, the local repository was pushed to the git hub.
 
 
