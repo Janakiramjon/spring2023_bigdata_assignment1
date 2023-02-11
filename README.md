@@ -1,4 +1,5 @@
 # spring2023_bigdata_assignment1
+
 Team BG 3
 
 Person 1: Janakiram Jonnalagadda
@@ -14,4 +15,11 @@ Person 2: Nicholas Giordano
 		5. Changed spacing and alignment to improve readability.
 
 	Is it necessary to have "id" as the primary key when we also have "account_id"?
+
+3. Person 3: Bharath Yadlapalli
+
+1. I forked the repository, cloned it, and added a column.
+2. revised the readme document and combined the branch with the main.
+3. Next, the local repository was pushed to the git hub.
+
 

@@ -7,4 +7,5 @@ balance 	DECIMAL(10,2),
 active 		BOOLEAN 	NOT NULL,
 comments 	TEXT,
 status 		CHAR(1)
+, email 		varchar(30)
 );
