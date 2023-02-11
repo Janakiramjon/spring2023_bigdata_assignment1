@@ -3,9 +3,9 @@
 Team BG 3
 
 Person 1: Janakiram Jonnalagadda
-	1. I have set up the repository and cloned it to my local repository.
-	2. then created the file 01.sql and updated the code and Readme file.
-	3. then merged the branch to the main branch and push the file back to github.
+1. I have set up the repository and cloned it to my local repository.
+2. then created the file 01.sql and updated the code and Readme file.
+3. then merged the branch to the main branch and push the file back to github.
 
 Person 2: Nicholas Giordano
 
